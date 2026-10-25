@@ -1,0 +1,8 @@
+node_modules/
+.DS_Store
+
+# Local development files (not part of the published extension)
+tests/
+.claude/
+/package.json
+/package-lock.json
